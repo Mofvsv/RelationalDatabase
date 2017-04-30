@@ -1,0 +1,11 @@
+animals:
+
+name string	species string	birthdate date
+Max	gorilla	2001-04-13
+Sue	gorilla	1998-06-12
+Max	moose	2012-02-20
+Alison	llama	1997-11-24
+George	gorilla	2011-01-09
+Spot	iguana	2010-07-23
+Ratu	orangutan	1989-09-15
+Eli	llama	2002-02-22
